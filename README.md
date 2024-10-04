@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RinkeshBhati
+- 👋 Hi, I’m @Rrinkesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning dsa and javascript
 - 💞️ I’m looking to collaborate on ...
